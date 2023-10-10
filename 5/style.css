@@ -1,0 +1,59 @@
+img
+{
+    border: 2px solid red;
+} 
+
+
+ table
+{
+    border: 2px solid red;
+}
+ th
+{
+  border: 2px solid greenyellow;  
+}
+td
+{
+    border: 2px solid black;
+}
+caption
+{
+    border: 2px solid yellow;
+}
+
+ 
+/* tr
+{
+    border: 2px solid yellow;
+}  */
+
+/* tr is of no use as no changes is done  */
+
+
+ ul
+{
+    border: 2px solid blueviolet;
+}
+ol
+{
+    border: 2px solid seagreen;
+}
+li{
+    border: 2px solid greenyellow;
+}   
+dl
+{
+    border: 2px solid skyblue;
+}
+dt
+{
+    border: 2px solid brown;
+}
+dd
+{
+    border: 2px solid grey;
+}
+h1
+{
+    border: 2px solid red;
+}  
