@@ -1,0 +1,14 @@
+/* #firstdiv
+{
+    background-color: red;
+} */
+.bg-yellow
+{
+    background-color: yellow;
+}
+.red
+{
+    color: skyblue;
+}
+
+/* classes is target using dot(.) in css whereas # is used for id*/
